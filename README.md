@@ -1,0 +1,1 @@
+Proyecto de metódodos de ML-Clasificación. Dejo el enlace de google collab para poder visualizar el proyecto entero https://colab.research.google.com/drive/1PU4qCvwl1T__tIGhDl0XNVq-ebaBltHZ?usp=sharing
